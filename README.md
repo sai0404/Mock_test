@@ -124,3 +124,21 @@ build.
   server via autosave are safe).
 - Section-wise timers (currently one timer for the whole exam, which matches
   the screenshot you shared).
+
+  # Mock-test
+**Exam aspirants to get real time experience on how exam is conducted online. UI/UX is as similar to TCS ion digital.**
+
+It can be done possible my JSON format. Where aspirants upload their question paper where it also includes answers of those questions.
+
+Working process:          
+
+                           1) **user**Upload PDF/DOCX format.
+                           2) Convert into .JSON format.
+                           3) Uploading json file in the website.
+                           4) Customise exam pattern and topics including timer.
+                           5) Exam experience is as TCS ion digital.
+                           6) When the timer reaches zero, the test is automatically submitted.
+                           7) User can see no. of questions attempted, correct and incorrect.
+                           8) With the question paper below and marked as correct/incorrect or not attempted.
+                           9) End and save the exam in local account.
+
